@@ -1,1 +1,1 @@
-# odin-recipes
+in this project i'll be building a website containing link to recipes. this will test skills such as building the html boilerplate adding various elements including links and images and using the required attributes 
