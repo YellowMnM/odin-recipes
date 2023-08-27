@@ -1,0 +1,14 @@
+.heading {
+    text-align:center;
+    color: rgb(251, 255, 4);
+}
+.main {
+    background-color:rgba(34, 223, 144, 0.4);
+}
+.list {
+    background-color: rgba(65, 129, 233, 0.4);
+    text-align: center;
+}
+.butter {
+    background-color: rgba(255, 255, 00, 0.6);
+}
