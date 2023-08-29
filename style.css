@@ -12,3 +12,36 @@
 .butter {
     background-color: rgba(255, 255, 00, 0.6);
 }
+.bheading {
+    text-align:center;
+}
+.bimg {
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+.discription {
+    background-color: rgba(34, 223, 144, 0.8);
+}
+.l-one {
+    background-color:greenyellow;
+}
+.l-two {
+    background-color:aqua;
+}
+.l-three {
+    background-color:darkorchid;
+}
+.l-four {
+    background-color:crimson;
+}
+.sub {
+    background-color:cadetblue;
+}
+.chead {
+    text-align:center;
+}
+.momo {
+    background-color:bisque;
+}
