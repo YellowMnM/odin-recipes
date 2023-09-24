@@ -1,13 +1,25 @@
 .heading {
     text-align:center;
     color: rgb(251, 255, 4);
+    font-size: 60px;
 }
 .main {
-    background-color:rgba(34, 223, 144, 0.4);
+    background-color: rgba(65, 129, 233, 0.4);
+    box-sizing: border-box;
 }
 .list {
-    background-color: rgba(65, 129, 233, 0.4);
+    background-color: rgba(255, 255, 255, 0.3);
     text-align: center;
+    width: 300px;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 300px;
+    font-size: 30px;
+    border-style: dashed;
+    border-width: 5px;
+    border-color: black;
+
 }
 .butter {
     background-color: rgba(255, 255, 00, 0.6);
@@ -19,22 +31,15 @@
     display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 50%;
+  
 }
 .discription {
-    background-color: rgba(34, 223, 144, 0.8);
-}
-.l-one {
-    background-color:greenyellow;
-}
-.l-two {
-    background-color:aqua;
-}
-.l-three {
-    background-color:darkorchid;
-}
-.l-four {
-    background-color:crimson;
+    background-color: rgba(255, 255, 255, 0.6);
+    width: 1000px;
+    height: auto;
+    padding: 20px;
+    margin: auto;
+    font-size: 30px;
 }
 .sub {
     background-color:cadetblue;
@@ -44,4 +49,29 @@
 }
 .momo {
     background-color:bisque;
+}
+h2 {
+    margin-left:210px;
+    font-size: 50px;
+}
+h1 {
+    font-size: 60px;
+}
+ #csub {
+    background-color: rgba(255, 255, 255, 0.3);
+}
+.ingridients {
+    border-style: dotted;
+    border-width: 5px;
+    border-color: black;
+}
+.para {
+    border-style: groove;
+    border-width: 5px;
+    border-color: black;
+}
+.steps {
+    border-style: double;
+    border-width: 5px;
+    border-color: black;
 }
